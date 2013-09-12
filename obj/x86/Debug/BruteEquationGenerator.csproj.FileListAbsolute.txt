@@ -1,0 +1,1 @@
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\BruteEquationGenerator\BruteEquationGenerator\obj\x86\Debug\BruteEquationGenerator.csprojResolveAssemblyReference.cache

@@ -152,13 +152,12 @@ namespace BruteEquationGenerator
                         //   select the middle number to be that position, and the left and right to be 1 unit apart (respectively).
                         //   keep track of each iteration. After 3 iterations, stop iterating the moment the current iteration yields a difference higher than the prior.
                         //   once 6 iterations as been reached or the iterations have stopped prematurely: select the value which yielded the lowest distance.
-                        
 
-
+                        cur = cur;//test test
+                        //sd
 
 
                         //if not commutable, try again on right
-
                         
 
 
