@@ -153,7 +153,9 @@ namespace BruteEquationGenerator
                         //   keep track of each iteration. After 3 iterations, stop iterating the moment the current iteration yields a difference higher than the prior.
                         //   once 6 iterations as been reached or the iterations have stopped prematurely: select the value which yielded the lowest distance.
 
-                        cur = cur;//test test
+                        cur = cur.Clone();//test test
+                        cur = cur.Clone();//test test
+                        cur = cur.Clone();//test test
                         //sd
 
 
