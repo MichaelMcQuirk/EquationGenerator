@@ -156,6 +156,8 @@ namespace BruteEquationGenerator
                         cur = cur.Clone();//test test
                         cur = cur.Clone();//test test
                         cur = cur.Clone();//test test
+                        cur = cur.Clone();//test test
+                        cur = cur.Clone();//test test
                         //sd
 
 
